@@ -28,6 +28,7 @@ setup(
     license = 'Apache 2.0',
     author = 'Mengyu Zhang',
     author_email = 'mengyuzhang@uchicago.edu', 
+    description = 'Extension for Logging',
     packages = ['elogging', 'elogging.handlers'], 
     install_requires = ['bernhard==0.2.4'],
     tests_require = ['pytest'], 
